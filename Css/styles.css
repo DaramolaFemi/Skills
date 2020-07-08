@@ -1,0 +1,223 @@
+
+body{	
+	font-family:"Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	margin:0;
+	background-color: ivory;
+	text-align:center;
+    color:saddlebrown;
+
+}
+
+
+	
+}
+
+h1{
+    margin:50px auto 0 auto;
+    font-family:sacramento;
+    font-size:90px;
+    color:#008B8B;
+}
+
+h2{
+
+	font-family:cursive, sans-serif;
+    color:#008B8B;
+}
+
+h3{
+
+	font-family:cursive,'montserrat', sans-serif;
+    color:#008B8B;
+}
+
+p{
+	line-height:2;
+}
+
+.top-container{
+
+background-color:#F5DEB3;
+padding:50px;
+left:10px;
+
+
+}
+.intro{
+
+	width:30%;
+	margin:auto;
+}
+
+.skill{
+
+	font-style:;
+	margin-right:1%;
+	font-size:250%;
+	text-decoration:;
+}
+
+.content{
+
+margin-right:20%;
+
+}
+
+.f{
+	width:10%;
+	height:10%;
+	
+}
+
+.g{
+    margin-right:auto;
+	width:40%;
+	position:relative; 
+	
+	border-radius: 70%;
+}
+
+.e{ 
+   width:180px;
+   height:180px;
+   left:20px;
+   border-radius:60%;
+   margin-top:2%;
+ 
+
+}
+
+.yea{
+
+	margin-left:2%;
+
+}
+
+.web{
+
+width:48%;
+margin-left:47%;
+}
+
+
+
+.need{
+	
+	top:100%
+	left:40;
+	font-size:130%;
+
+}
+
+.k{
+
+	width:25%;
+    float:right;
+
+}
+
+.o{
+    width:25%;   
+    float:right;
+    
+}
+.design{
+
+	width:50%;
+	margin-right:20%;
+}
+
+.w{
+	width:30px;
+	height:35;
+	margin:10px 10px;
+}
+
+
+.q{
+    width:30px;
+	height:35;
+    margin:10px 10px;
+}
+
+.i{
+
+    width:25px;
+	height:25;
+    margin:10px 10px;
+
+}
+.wrt{
+	width:55%;
+
+}
+
+.l{
+    width:25%;
+    float: left;
+
+}
+
+
+
+hr{
+		border-style:dotted none none;
+		width:3%;
+		border-width:3px;
+		width:3%;
+		margin:100px auto;
+	}
+
+.get{
+	width: 20%;
+	margin-bottom:5%;
+	margin-left:40%;
+
+}
+
+
+.btn{
+   background:9e#008B8B;
+   background-image: -webkit-linear-gradient(top, #008B8B, #11999e);
+   background-image: -moz-linear-gradient(top, #008B8B, #11999e);
+   background-image: -ms-linear-gradient(top, #008B8B, #11999e);
+   background-image: -o-linear-gradient(top, #008B8B, #11999e);
+   background-image: -linear-gradient(to bottom, #008B8B, #11999e);
+   -webkit-border-radius:8;
+   -moz-border-radius:8;
+   border-radius:8px;
+   font-family: cursive;
+   color:#ffffff;
+   font-size: 15px;
+   padding:10px 20px 10px 20px;
+   text-decoration: none;
+}
+
+.btn:hover{
+	background: #008B8B;
+	color: white;
+}
+
+
+.buttom-container{
+    background-color:#F5DEB3;
+    padding:50px;
+    left:10px; 
+	}
+.copywrite{
+	color:#008B8B;
+	padding: 20px 0;
+	
+}
+
+.instagram{
+	border: 1px solid;
+	margin: 20px 530px 20px 530px;
+}
+
+.facebook{
+	border: 1px solid;
+	margin: 20px 530px 0 530px;
+	}
+
+
